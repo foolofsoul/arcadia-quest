@@ -1,0 +1,69 @@
+@font-face {
+  font-family: 'ITC Highlander';
+  src: url(assets/fonts/itc-highlander-std-book.otf);
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ITC Highlander';
+  src: url(assets/fonts/itc-highlander-std-book-italic.otf);
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'ITC Highlander';
+  src: url(assets/fonts/itc-highlander-std-medium.otf);
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ITC Highlander';
+  src: url(assets/fonts/itc-highlander-std-medium-italic.otf);
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'ITC Highlander';
+  src: url(assets/fonts/itc-highlander-std-bold.otf);
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ITC Highlander';
+  src: url(assets/fonts/itc-highlander-std-bold-italic.otf);
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Kingthings Petrock';
+  src: url(assets/fonts/Kingsthings_Petrock_light.ttf);
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Kingthings Petrock';
+  src: url(assets/fonts/Kingthings_Petrock.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  justify-content: center;
+  -ms-align-items: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  background-color: #333;
+}
